@@ -14,3 +14,7 @@
   ```
   deactivate
   ```
+- 가상환경 삭제
+  ```
+   sudo rm -rf venv
+  ```
